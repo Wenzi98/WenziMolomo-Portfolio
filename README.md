@@ -1,8 +1,6 @@
-# OYUGI-PORTFOLIO
+# WENZI-MOLOMO PORTFOLIO
 
 Showcase your skills, connect with the world.
-
-![Last Commit](https://img.shields.io/badge/last_commit-today-brightgreen) ![Languages](https://img.shields.io/badge/languages-HTML%20%7C%20CSS%20%7C%20JavaScript-blue)
 
 ## Table of Contents
 
@@ -14,37 +12,36 @@ Showcase your skills, connect with the world.
 
 ## Overview
 
-**oyugi-portfolio** is a personal portfolio website that highlights the skills and projects of Oyugi Mourice Odhiambo, a Software Engineer.
+**Wenzi Molomo Portfolio** is a sleek and modern personal website that highlights the professional journey, skills, and projects of Wenzi Molomo.
 
-### Why oyugi-portfolio?
+### Why this portfolio?
 
-This project aims to create an engaging digital experience that highlights professional capabilities. The core features include:
+This project is designed to create a powerful first impression and digital footprint. It reflects both technical capabilities and aesthetic sensibility, incorporating the following features:
 
-- 🌙 **Dark Mode Toggling**: Enhance user experience with customizable themes for comfort and accessibility.
-- 📱 **Responsive Navigation**: Seamless usability across devices, ensuring easy access for visitors.
-- 🎯 **Dynamic Section Highlighting**: Guide users through content interactively, keeping them engaged.
-- ⌨ **Typing Animations**: Showcase skills in a modern, interactive way that captivates visitors.
-- ✉ **Seamless Contact Form Submission**: Enable easy communication with integrated EmailJS support.
+## Features
+
+- 🌙 **Dark Mode Toggling**  
+  Customize your browsing experience with a theme that suits your preference.
+
+- 📱 **Responsive Navigation**  
+  Optimized layout for mobile, tablet, and desktop views to ensure smooth interaction across devices.
+
+- 🎯 **Dynamic Section Highlighting**  
+  Smart navigation indicators guide the visitor as they scroll through the site.
+
+- ⌨ **Typing Animations**  
+  Engaging animations introduce Wenzi’s skills in a fun and interactive manner.
+
+- ✉ **Seamless Contact Form Submission**  
+  Easily get in touch using an integrated EmailJS-powered contact form.
 
 ## Usage
 
-You can access the portfolio directly in any web browser by opening `index.html`.
+You can view the portfolio live in any browser by opening the `index.html` file.
 
-Alternatively, you can:
-1. Clone the repository:
+### Alternatively:
 
-   ```sh
-   git clone https://github.com/oyugidf/oyugi-portfolio.git
-   ```
+1. **Clone the repository**:
 
-2. Open the project folder and launch `index.html` in your preferred browser.
-3. For live preview and testing, use the **Live Server** extension in VS Code.
-
-## Contributing
-
-Contributions are welcome! If you find a bug or have a feature suggestion, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is open-source and available under the MIT License.
-
+   ```bash
+   git clone https://github.com/Wenzi98/Wenzi-Portfolio1.git
